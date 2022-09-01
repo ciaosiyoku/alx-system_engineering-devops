@@ -1,3 +1,2 @@
 #!/bin/bash
-cd ~/tmp/
-mkkdir my_first_directory
+mkkdir /tmp/my_first_directory
